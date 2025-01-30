@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#This is a simple script to calculate two numbers.
+#This is a simple script to calculate two numbers!
 
-# Taking  user input
+#Taking the user input
 
 echo "Enter two numbers: "
 read a
